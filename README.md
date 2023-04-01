@@ -1,7 +1,7 @@
 # Welcome! Badges 4 README.md Profile
 
-Create Attractive README.md Profile with these Amazing badges. 
-See a Sample [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushkraJ99)
+Create Attractive README.md Profile with these Amazing badges. See a Sample 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushkraJ99)
 
 ## How to Use?
 
